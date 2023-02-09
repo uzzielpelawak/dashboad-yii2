@@ -6,10 +6,6 @@
     <br>
 </p>
 
-## Authors
-
-- [@uzziepelawak](https://www.github.com/uzziepelawak)
-
 REQUIREMENTS
 ------------
 
@@ -49,7 +45,8 @@ Run migrations Database for RBAC
 
 Edit config add `config/params.php` 
 
-Documentation :
+
+### Reference :
 
 RBAC : <a href="https://github.com/webvimark/user-management" target="_blank">Original from Webvimark</a>
 
@@ -65,3 +62,8 @@ Uncomment line at `views/layout/main.php` :
 
 ```
 Kartik Extention : <a href="https://demos.krajee.com/" target="_blank">Kartik / Krajee</a>
+
+
+### Authors
+
+- [@uzziepelawak](https://www.github.com/uzziepelawak)
