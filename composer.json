@@ -23,7 +23,8 @@
         "pusher/pusher-php-server": "^7.2",
         "kartik-v/yii2-widgets": "dev-master",
         "kartik-v/yii2-widget-select2": "dev-master",
-        "kartik-v/yii2-grid": "dev-master"    
+        "kartik-v/yii2-grid": "dev-master",
+        "uzzielpelawak/yii2-gii-uzziel": "dev-main"    
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.1.0",

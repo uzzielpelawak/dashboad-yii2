@@ -51,6 +51,7 @@ $config = [
             'enablePrettyUrl' => true,
             'showScriptName' => false,
             'rules' => [
+                '/' => 'site/index',
             ],
         ],
     ],
@@ -85,7 +86,7 @@ if (YII_ENV_DEV) {
             'crud' => [
                 'class' => 'yii\gii\generators\crud\Generator',
                 'templates' => [
-                    'yii2-adminlte3' => '@vendor/hail812/yii2-adminlte3/src/gii/generators/crud/default'
+                    'yii2-adminlte3' => '@vendor/uzzielpelawak/yii2-gii-uzziel/src/gii/generators/crud/default'
                 ]
             ]
         ],
